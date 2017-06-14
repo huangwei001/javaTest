@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.thinvent:thinvent-common:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/thinvent/thinvent-common/1.0.0-SNAPSHOT/thinvent-common-1.0.0-20170511.005321-51.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/thinvent/thinvent-common/1.0.0-SNAPSHOT/thinvent-common-1.0.0-20170511.005321-51-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/thinvent/thinvent-common/1.0.0-SNAPSHOT/thinvent-common-1.0.0-20170511.005321-51-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

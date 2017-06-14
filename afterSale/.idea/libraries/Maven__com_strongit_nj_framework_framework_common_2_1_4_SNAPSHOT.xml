@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.strongit.nj.framework:framework-common:2.1.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/strongit/nj/framework/framework-common/2.1.4-SNAPSHOT/framework-common-2.1.4-20150930.012304-265.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/strongit/nj/framework/framework-common/2.1.4-SNAPSHOT/framework-common-2.1.4-20150930.012304-265-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/strongit/nj/framework/framework-common/2.1.4-SNAPSHOT/framework-common-2.1.4-20150930.012304-265-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

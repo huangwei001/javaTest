@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="asss-view:war">
+    <output-path>$PROJECT_DIR$/asss-view/target</output-path>
+    <root id="archive" name="asss-view.war">
+      <element id="artifact" artifact-name="asss-view:war exploded" />
+    </root>
+  </artifact>
+</component>

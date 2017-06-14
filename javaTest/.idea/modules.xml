@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ReadProperties/ReadProperties.iml" filepath="$PROJECT_DIR$/ReadProperties/ReadProperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serializable/Serializable.iml" filepath="$PROJECT_DIR$/Serializable/Serializable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaTest.iml" filepath="$PROJECT_DIR$/javaTest.iml" />
+    </modules>
+  </component>
+</project>

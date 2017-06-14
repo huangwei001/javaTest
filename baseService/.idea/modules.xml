@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/baseService.iml" filepath="$PROJECT_DIR$/baseService.iml" />
+      <module fileurl="file://E:/Work项目/考勤/04_Source/01_Working/03_pmis-base/base-api/src/main/main.iml" filepath="E:/Work项目/考勤/04_Source/01_Working/03_pmis-base/base-api/src/main/main.iml" />
+    </modules>
+  </component>
+</project>

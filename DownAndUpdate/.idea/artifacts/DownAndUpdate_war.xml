@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DownAndUpdate:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="DownAndUpdate.war">
+      <element id="artifact" artifact-name="DownAndUpdate:war exploded" />
+    </root>
+  </artifact>
+</component>

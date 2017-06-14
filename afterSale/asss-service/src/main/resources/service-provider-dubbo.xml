@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://code.alibabatech.com/schema/dubbo
+        http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+
+    <!-- 组织服务 -->
+    <dubbo:reference id="orgService" interface="com.strongit.nj.bis.service.inter.organise.IOrgService" timeout="100000" protocol="dubbo" />
+    <!-- 用户服务 -->
+    <dubbo:reference id="yhService" interface="com.strongit.nj.bis.service.inter.user.IYhService" timeout="100000" protocol="dubbo" />
+    <!-- 系统字典服务 -->
+    <dubbo:reference id="xtzdService" interface="com.strongit.nj.bis.service.inter.xtzd.IXtzdService" timeout="100000" protocol="dubbo" />
+
+    <dubbo:reference id="permissionService" interface="com.strongit.nj.bis.service.inter.permission.IPermissionService" protocol="dubbo"/>
+
+
+    <dubbo:service interface="com.hw.afterSale.service.AnswerPersonService" ref="answerPersonServicImpl" retries="1" timeout="100000"/>
+
+</beans>

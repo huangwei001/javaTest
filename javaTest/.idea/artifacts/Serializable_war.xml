@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Serializable:war">
+    <output-path>$PROJECT_DIR$/Serializable/target</output-path>
+    <root id="archive" name="Serializable.war">
+      <element id="artifact" artifact-name="Serializable:war exploded" />
+    </root>
+  </artifact>
+</component>

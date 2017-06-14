@@ -1,0 +1,8 @@
+com\hw\afterSale\entity\JobInfo.class
+com\hw\afterSale\entity\JobInfoProcess.class
+com\hw\afterSale\entity\Enclosure.class
+com\hw\afterSale\Constants\Constants.class
+com\hw\afterSale\entity\Dictionary.class
+com\hw\afterSale\service\JobInfoService.class
+com\hw\afterSale\entity\AnswerPerson.class
+com\hw\afterSale\service\AnswerPersonService.class
